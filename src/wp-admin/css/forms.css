@@ -1008,6 +1008,12 @@ table.form-table td .updated p {
 	margin-right: 5px;
 }
 
+@media only screen and (max-width: 782px) {
+	#mailserver_url {
+		margin-bottom: 5px;
+
+	}
+}
 /*------------------------------------------------------------------------------
   21.0 - Network Admin
 ------------------------------------------------------------------------------*/
